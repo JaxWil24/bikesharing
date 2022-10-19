@@ -2,7 +2,7 @@
 ## Overview
 This analysis was to view the relationship between time, people, and usage of NYC Bikesharing program. 
 
-https://public.tableau.com/app/profile/jacqueline.w./viz/BikeTripsBook/BikeTrips?publish=yes
+[link to dashboard] (https://public.tableau.com/app/profile/jacqueline.w./viz/BikeTripsBook/BikeTrips?publish=yes)
 
 ## Results
 Looking through the pages, it is evident male riders were most frequent. 
